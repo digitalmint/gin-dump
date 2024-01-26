@@ -1,4 +1,4 @@
-module github.com/gregwebs/gin-dump
+module github.com/digitalmint/gin-dump
 
 go 1.21
 
